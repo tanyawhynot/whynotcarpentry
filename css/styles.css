@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: gold;
+  font-family: 'Teko', sans-serif;
+  font-size: 80px;
+  align-items: center;
+}
+
+.Envelope {
+  align-items: center;
+}
+
+.UnderConstruction {
+  align-items: center;
+}
+
+.myButton {
+	background-color:gold;
+	border-radius:28px;
+	border:1px solid gold;
+	display:inline-block;
+	cursor:pointer;
+	color:black;
+	font-family: 'Teko', sans-serif;
+	font-size:30px;
+	padding:8px 18px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color: black;
+  color: gold;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
